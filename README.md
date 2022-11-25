@@ -1,5 +1,5 @@
 # Project-23
-Chapter 4 code_Project_23 The second part 2 of "The Arduino World Book" code_Project_23
+Chapter 1 code_Project_23 The Third part 3 of "The Arduino World Book" code_Project_23
 #   Arduino Game
 - code_Project_23
 -  By:Farkad Adnan فرقد عدنان - 
